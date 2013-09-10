@@ -2,7 +2,7 @@ Swizzle
 =======
 A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http://clockworkengine.com/lightpaper-mac/) Markdown editors.
 
-## Demo
+## Screenshot
 <img src="https://raw.github.com/chrissimpkins/swizzle/master/img/swizzle_demo.png" />
 
 ## Install
