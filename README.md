@@ -9,6 +9,6 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 Place the `Swizzle.txt` file in your application's Theme directory.  Open your Markdown editor and select the Swizzle theme in the dropdown for the text editor themes (not the preview themes!).
 
 ## Specs
-Fonts: Helvetica Neue, Helvetica, & Menlo
+**Fonts**: Helvetica Neue, Helvetica, & Menlo
 
-Palette: [Curiosity Killed](http://www.colourlovers.com/palette/444487/Curiosity_Killed) with a few additions {^5 Miaka}
+**Palette**: [Curiosity Killed](http://www.colourlovers.com/palette/444487/Curiosity_Killed) with a few additions {^5 Miaka}
