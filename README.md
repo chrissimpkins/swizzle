@@ -9,6 +9,7 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 Place the `Swizzle.txt` file in your application's Theme directory.
 
 **Mou Themes** : `~/Library/Application Support/Mou/Themes`
+
 **LightPaper Themes** : `~/.lightpaper/Themes`
 
 Open your Markdown editor, open the Preferences pane, & select the Swizzle theme in the dropdown for the text editor themes (not the preview themes!).
