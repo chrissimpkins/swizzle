@@ -6,7 +6,7 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 <img src="https://raw.github.com/chrissimpkins/swizzle/master/img/swizzle_demo.png" />
 
 ## Install
-Place the `Swizzle.txt` file in your application's Theme directory.  Open your Markdown editor and select the Swizzle theme in the dropdown for the text editor themes.
+Place the `Swizzle.txt` file in your application's Theme directory.  Open your Markdown editor and select the Swizzle theme in the dropdown for the text editor themes (not the preview themes!).
 
 ## Specs
 Fonts: Helvetica Neue, Helvetica, & Menlo
