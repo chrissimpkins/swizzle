@@ -9,5 +9,4 @@ A Markdown editor theme for the [Mou](http://mouapp.com/) and [LightPaper](http:
 Place the `Swizzle.txt` file in your application's Theme directory.  Open your Markdown editor and select the Swizzle theme in the dropdown for the text editor themes.
 
 ## Palette
-[Curiosity Killed](http://www.colourlovers.com/palette/444487/Curiosity_Killed) 
-(^5 Miaka)
+[Curiosity Killed](http://www.colourlovers.com/palette/444487/Curiosity_Killed) with a few additions {^5 Miaka}
