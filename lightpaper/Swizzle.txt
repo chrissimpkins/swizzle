@@ -1,5 +1,5 @@
 #Author: Chris Simpkins (https://github.com/chrissimpkins/swizzle)
-#Version: 1.0
+#Version: 2
 editor
 foreground: E0E2E4
 background: 2E2633
@@ -51,7 +51,7 @@ foreground: DCE9BE
 font-style: bold
 
 HRULE
-foreground: 586e75
+foreground: EFFFCD
 
 LIST_BULLET
 foreground: 75e349
@@ -62,20 +62,25 @@ foreground: 75e349
 LINK
 foreground: FFFFFF
 background: 99173C
+font-style: bold
 
 AUTO_LINK_URL
 foreground: FFFFFF
 background: 99173C
+font-style: bold
 
 AUTO_LINK_EMAIL
 foreground: FFFFFF
 background: 99173C
+font-style: bold
 
 REFERENCE
 foreground: 888888
 
 IMAGE
-foreground: 85d065
+foreground: 222222
+background: EFFFCD
+font-style: bold
 
 CODE
 foreground: abc4f9
@@ -86,7 +91,7 @@ VERBATIM
 foreground: e979d9
 
 HTML_ENTITY
-foreground: 75e349
+foreground: EFFFCD
 background: 222222
 
 COMMENT
