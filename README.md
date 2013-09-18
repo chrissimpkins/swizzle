@@ -6,6 +6,13 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 <img src="https://raw.github.com/chrissimpkins/swizzle/master/img/swizzle_demo.png" />
 
 ## Install
+#### Automated Install
+Use the install.sh script in either the Mou or LightPaper directory.  This will automatically install the Theme for you. Clone this repository, navigate to the directory for your Markdown editor and enter the following:
+```
+chmod 744 install.sh
+./install.sh
+```
+#### Manual Install
 Place the `Swizzle.txt` file in your application's Themes directory.
 
 **Mou Themes** : `~/Library/Application Support/Mou/Themes` [Docs](http://mouapp.com/)
