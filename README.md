@@ -7,7 +7,7 @@ A Markdown text editor theme for the [Mou](http://mouapp.com/) and [LightPaper](
 
 ## Install
 #### Automated Install
-Use the install.sh script in either the Mou or LightPaper directory.  This will automatically install the Theme for you. Clone this repository, navigate to the directory for your Markdown editor and enter the following:
+Use the install.sh script in the Mou or LightPaper directory.  This will automatically install the theme for you. Clone this repository, navigate to the directory for your Markdown editor and enter the following:
 ```
 chmod 744 install.sh
 ./install.sh
